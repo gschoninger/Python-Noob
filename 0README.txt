@@ -1,1 +1,0 @@
-echo Hausaufgaben zu WiP
